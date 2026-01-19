@@ -361,13 +361,40 @@ Home
 
 ---
 
+## Pre-Development Requirements
+
+Before committing to full development, complete:
+
+1. **Validation Phase** (4-6 weeks, $5K budget)
+   - 20 user interviews to validate problem and willingness to pay
+   - 10 service provider interviews to validate lead pricing
+   - Landing page test to measure conversion
+   - See: [Validation Plan](docs/strategy/06-validation-plan.md)
+
+2. **Legal Resolution** (2-4 weeks, $3-5K budget)
+   - Attorney consultation on liability disclaimers
+   - Terms of Service and Privacy Policy drafting
+   - Insurance coverage (E&O, General Liability)
+   - See: [Legal Checklist](docs/strategy/08-legal-checklist.md)
+
+**Go/No-Go Decision**: Based on validation results and legal readiness
+
+---
+
 ## Related Documents
 
+### Strategy Documents
 - [MVP Scope Details](docs/strategy/01-mvp-scope.md)
 - [Business Model](docs/strategy/02-business-model.md)
 - [Competitive Analysis](docs/strategy/03-competitive-analysis.md)
 - [Go-to-Market Strategy](docs/strategy/04-go-to-market.md)
 
+### Risk & Validation Documents
+- [Financial Scenarios](docs/strategy/05-financial-scenarios.md) — Conservative/pessimistic modeling
+- [Validation Plan](docs/strategy/06-validation-plan.md) — Pre-launch user & provider research
+- [Risk Mitigation Playbook](docs/strategy/07-risk-mitigation.md) — Response plans for top risks
+- [Legal Checklist](docs/strategy/08-legal-checklist.md) — Liability, ToS, privacy requirements
+
 ---
 
-*PRD v2.0 | Updated with strategic context from business model, competitive analysis, and GTM planning*
+*PRD v2.1 | Updated with validation requirements, risk mitigation, and legal checklist*
